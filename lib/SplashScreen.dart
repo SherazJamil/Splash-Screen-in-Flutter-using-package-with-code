@@ -23,7 +23,7 @@ class _SplashscreenState extends State<Splashscreen> {
         color: Colors.blueAccent,
         fontSize: 30.0,
       ),
-      backgroundColor: Colors.blueAccent,
+      backgroundColor: Colors.blueGrey,
     );
   }
 }
